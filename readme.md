@@ -30,10 +30,11 @@ Use $ to start a conversation with the AI, and $ ends the conversation too.
 https://discord.gg/8UwBKRn
 
 # Commands (In discord)
-Admin-
-~ Quit
-~ Exit
-~ Stop
+Admin:
+
+Quit
+Exit
+Stop
 
 Other-
 To view a full list of all the paths open the intents.json file to view current setups and maybe create new ones.
