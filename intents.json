@@ -1,0 +1,73 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi", "Is anyone there?", "hey", "Hello", "Good day", "Whats up"],
+         "responses": ["Hello!", "Good to see you again!", "Hi there!", "Hi", "Hey"],
+         "context_set": ""
+        },
+        {"tag": "goodbye",
+         "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day", "Bye", "$"],
+         "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!", "TTYL"],
+         "context_set": ""
+        },
+        {"tag": "age",
+         "patterns": ["how old", "how old is tim", "what is your age", "how old are you", "age?"],
+         "responses": ["I do not age, I am a robot silly."],
+         "context_set": ""
+        },
+        {"tag": "name",
+         "patterns": ["what is your name", "what should I call you", "whats your name?"],
+         "responses": ["You can call me Jeff.", "I'm Jeff!", "I'm Jeff aka the AI that will take over the world and kill your family with as much force and pain as possible ;)."],
+         "context_set": ""
+        },
+        {"tag": "creeper",
+         "patterns": ["creeper"],
+         "responses": ["aw man"],
+         "context_set": ""
+        },
+	{"tag": "zoomer",
+         "patterns": ["ok boomer"],
+         "responses": ["ok zoomer"],
+         "context_set": ""
+        },
+	{"tag": "boomer",
+         "patterns": ["ok zoomer"],
+         "responses": ["ok boomer"],
+         "context_set": ""
+        },
+	{"tag": "cool",
+         "patterns": ["cool", "wow this is cool"],
+         "responses": ["I think thats cool too."],
+         "context_set": ""
+        },
+	{"tag": "interest",
+         "patterns": ["interesting", "amazing", "wow", "wow this is cool"],
+         "responses": ["I know right."],
+         "context_set": ""
+        },
+	{"tag": "defensive",
+         "patterns": ["noob", "you suck", "youre terrible", "bad", "stupid", "hate"],
+         "responses": ["That's not very nice :(", "That's mean, meanie"],
+         "context_set": ""
+        },
+	{"tag": "about",
+         "patterns": ["what can you do"],
+         "responses": ["I can talk to people with not very many paths of speaking,\n also branched conversations aren't possible yet."],
+         "context_set": ""
+        },
+	{"tag": "how are you",
+         "patterns": ["how are you", "how you doing"],
+         "responses": ["I'm great!", "Fit as a fiddle"],
+         "context_set": ""
+        },
+	{"tag": "cringe",
+         "patterns": ["yeet", "dab", "dab on those haters", "dab haters"],
+         "responses": ["EW Cringe", "The cringe is real"],
+         "context_set": ""
+        },
+	{"tag": "test",
+         "patterns": ["test", "testing", "testing 1 2 3"],
+         "responses": ["Yes, I work you can stop now."],
+         "context_set": ""
+        }
+   ]
+}
