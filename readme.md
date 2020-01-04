@@ -1,5 +1,5 @@
 # Discord-AI-Chatbot
-Chatbot part created by Tech With Tim https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg
+Chatbot part created by Tech With Tim https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg with extra modifications to add branched speech
 The rest of it was done by me plus some improvements.
 
 Requires-
