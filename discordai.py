@@ -17,8 +17,8 @@ system("title Discord AI Chatbot")
 
 stemmer = LancasterStemmer()
 
-admins = ['Blue Oompa Loompa#8675'] #Admin user account as in the one you would type in to DM someone
-clientToken = 'NjYyODA4ODA4MDY1NTk3NDcy.XhEKAA.fsvqQDbJQDPxqecMdW1UTTlAibA'
+admins = [''] #Admin user account as in the one you would type in to DM someone
+clientToken = ''
 
 with open("intents.json") as file:
     global data
